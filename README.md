@@ -2,7 +2,7 @@ I will scrape reviews from BestBuy.com. I will also include the .ipynb and .md v
   - scatterplot with length on the x axis, total on the y axis
   - scatterplot with length on the x axis, nethelpful on the y axis
 
-My goal is to scrape 1,000 reviews that were posted in the reviews page of my assigned item. The format of my output should be a dataframe with the following columns/format:
+My goal is to scrape 1000 reviews that were posted in the reviews page of my assigned item. The format of my output should be a dataframe with the following columns/format:
 
 |variable | description
 | :---    |    :---   |
